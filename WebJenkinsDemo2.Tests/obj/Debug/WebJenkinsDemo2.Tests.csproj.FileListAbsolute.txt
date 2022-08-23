@@ -1,0 +1,17 @@
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\bin\Debug\WebJenkinsDemo2.Tests.dll
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\bin\Debug\WebJenkinsDemo2.Tests.pdb
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\bin\Debug\WebJenkinsDemo2.dll
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\bin\Debug\WebJenkinsDemo2.pdb
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\bin\Debug\WebJenkinsDemo2.dll.config
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\obj\Debug\WebJenkinsDemo2.Tests.csproj.AssemblyReference.cache
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\obj\Debug\WebJenkinsDemo2.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\obj\Debug\WebJenkinsDemo2.Tests.csproj.CopyComplete
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\obj\Debug\WebJenkinsDemo2.Tests.dll
+C:\Users\Subhadip_Chowdhury\source\repos\git\webjenkinsdemo\WebJenkinsDemo2.Tests\obj\Debug\WebJenkinsDemo2.Tests.pdb
